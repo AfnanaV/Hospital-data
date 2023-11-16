@@ -1,0 +1,22 @@
+[
+  {
+    "name": "DHANALAKSHMI HOSPITAL",
+    "patientCount": 250,
+    "location": "Kannur"
+  },
+  {
+    "name": "AKG MEMORIAL COOPERATIVE HOSPITAL",
+    "patientCount": 200,
+    "location": "Kasargod"
+  },
+  {
+    "name": "HNC HOSPITAL",
+    "patientCount": 180,
+    "location": "Mattannur"
+  },
+  {  
+    "name": "ASHIRVAD HOSPITAL",
+    "patientCount": 120,
+    "location": "Kuthuparamba"
+  }
+]
